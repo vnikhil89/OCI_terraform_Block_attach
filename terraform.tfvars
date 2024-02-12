@@ -1,0 +1,7 @@
+tenancy_ocid                    = "ocid1."
+user_ocid                       = "ocid1.user."
+fingerprint                     = ""
+private_key_path                = "~/.oci/oci_api_key.pem"
+compartment_ocid                = "ocid1.compartment.oc1"
+region                          = "us-ashburn-1"
+ad_name                         = "RJWV:US-ASHBURN-AD-2"
